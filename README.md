@@ -14,7 +14,9 @@ The data sets are obtained from the statistical institutes of the respective cou
 # Results
 
 According to the consumption per person and the agricultural use of land for growing potatoes, Germany is the chunkier potato nation.<br>
-With 57,9 kg per head per year Germans consumed 17,9 kg of potatoes more than Danes with their 40 kg in 2010.<br>
+With 57.9 kg per head per year Germans consumed 17.9 kg of potatoes more than Danes with their 40 kg in 2010.<br>
+![Consumption graph](potatoes_consumption_plot_2010.png)
+<br>
 0,74 % of Germanys total area in 2022 was used for growing potatoes for human consumption, while only 0,16 % of Denmarks land was used for that purpose.
 
 # Outlook
